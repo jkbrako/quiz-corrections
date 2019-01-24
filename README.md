@@ -1,6 +1,6 @@
 # quiz-corrections
 
-The questions the corrections are given are for #9-#10
+The revisions are for quizzes 4-7. Thank you for taking the time to go through the repository.
 
 ## quiz-4
 
